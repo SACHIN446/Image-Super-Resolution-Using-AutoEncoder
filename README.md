@@ -14,4 +14,4 @@ Although the advantage of this project is, it is not going to change image resol
 4. Now train the model or alternatively one can used the already saved model weights for better performance.
 
 ## Additional Details
-One can use the above python code to see the results.
+One can use above python code to see the results.
