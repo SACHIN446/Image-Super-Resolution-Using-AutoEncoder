@@ -13,4 +13,5 @@ Although the advantage of this project is, it is not going to change image resol
 3. Once the dataset is prepeared and processed, we build our Auto Encoder Model, i made it using the model structure from one of the couse available on COURSERA plateform.
 4. Now train the model or alternatively one can used the already saved model weights for better performance.
 
-
+## Additional Details
+One can use the above python code to see the results.
