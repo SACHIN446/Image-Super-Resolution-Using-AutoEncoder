@@ -15,7 +15,7 @@ Although the advantage of this project is, it is not going to change image resol
 
 ## Dataset
 
-![Uploading low_high.png…]()
+![low_high](https://user-images.githubusercontent.com/46420929/141751485-f63911ea-60d3-4b13-9942-7af4b29a958b.png)
 
 ## Model Summary
 
