@@ -13,5 +13,9 @@ Although the advantage of this project is, it is not going to change image resol
 3. Once the dataset is prepeared and processed, we build our Auto Encoder Model, i made it using the model structure from one of the couse available on COURSERA plateform.
 4. Now train the model or alternatively one can used the already saved model weights for better performance.
 
+## Model Summary
+
+![Auto_enc_model](https://user-images.githubusercontent.com/46420929/141750037-ff07d7a5-b86f-4f6f-b747-2c816af49dc4.png)
+
 ## Additional Details
 One can use above python code(isr.ipynb.py file) to see the results.
